@@ -1,2 +1,0 @@
-# specks
-game specks
